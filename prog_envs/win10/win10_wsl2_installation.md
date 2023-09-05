@@ -158,7 +158,9 @@ password.  This is NOT the same username and password that you use to log into W
 This account is specifically for the Linux virtual machine.  However, you can 
 certainly use the same username and password for Windows and your Linux VM if 
 you like. **Create your Linux username and password to finalize the installation.**
-<br><br><br>
+
+
+<br><br>
 
 
 
@@ -200,9 +202,35 @@ that your Windows and Linux filesystems and applications can interact properly.
 > sudo wget -O /etc/wsl.conf https://raw.githubusercontent.com/ycpcs/dev-env-setup-guide/gh-pages/prog_envs/_config/wsl.conf
 > ```
 
+<br><br>
+
+
+
+## Part 5: Add Required Certificate Authority to WSL Environment 
+
+---
+
+* **Step 1:** Your Linux VM should still be running. If not, you can restart your Linux VM by running it from the Windows Start/Applications menu. Copy and paste the following command into your **Linux terminal** to download the YCP CS CA updater script.
+
+> ```
+> wget -O /tmp/install_cs_ca_cert.sh https://raw.githubusercontent.com/ycpcs/dev-env-setup-guide/gh-pages/prog_envs/_config/install_cs_ca_cert.sh
+> ```
+
+
+* **Step 2:** Copy and paste the following line into your **Linux terminal** to set the required permissions on the YCP CS CA updater script.
+
+> ```
+> chmod 700 /tmp/install_cs_ca_cert.sh
+> ```
+
+
+* **Step 3:** Copy and paste the following line into your **Linux terminal** to run the YCP CS CA updater script and add the required Certificate Authority (CA) to your WSL environment.
+
+> ```
+> /tmp/install_cs_ca_cert.sh
+> ```
 
 <br>
-
 
 ---
 
