@@ -1,0 +1,5 @@
+/.idea
+*.swp
+*.bak
+.DS_Store
+_github-pages setup.txt
