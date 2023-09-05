@@ -89,7 +89,7 @@ that your Windows and Linux filesystems and applications can interact properly.
 > ```
 
 
-* **Step 3:** Copy and paste the following line into your **Linux terminal** to run the YCP CS CA updater script and add the required Certificate Authority (CA) to your WSL environment.
+* **Step 3:** Copy and paste the following line into your **Linux terminal** to run the YCP CS CA updater script and add the required Certificate Authority (CA) to your WSL environment. Enter your Linux/WSL password when prompted to complete the update.
 
 > ```
 > /tmp/install_cs_ca_cert.sh
