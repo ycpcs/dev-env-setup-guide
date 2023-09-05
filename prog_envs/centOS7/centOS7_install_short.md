@@ -20,7 +20,7 @@ This page contains a **SHORT** step-by-step guide through the installation of **
      ```shell
      yum install clang
      ```
-  6. Install `valgrind` by typing the following in the terminal as the root user:
+  6. Install `valgrind` by typing the following in the terminal as the **root** user:
      ```shell
      yum install valgrind
      ```
