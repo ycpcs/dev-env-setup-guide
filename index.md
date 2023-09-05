@@ -1,6 +1,6 @@
 ---
 layout: default
-title: YCPCS Development Environment Setup Guides
+title: YCP CS Development Environment Setup Guides
 ---
 
 This page contains useful guides for setting up your programming environment.
