@@ -59,55 +59,55 @@ Before you can install and run virtual machines, you must enable a feature in yo
 
 <hr><br><!-- =============================================================== -->
 
-**Step 3:** Click on **"Software Selection"** on right side.
+**Step 3:** Click on **"SOFTWARE SELECTION"** on right side.
 <br><br>
 ![image](centOS7_installation_images/step03.png)
 
 <hr><br><!-- =============================================================== -->
 
-**Step 4:** In the left-hand pane, select the **"GNOME Deskop"**.
+**Step 4:** In the left pane, select the **"GNOME Desktop"**.
 <br><br>
 ![image](centOS7_installation_images/step04.png)
 
 <hr><br><!-- =============================================================== -->
 
-**Step 5:** In the right-hand pane, scroll down and select **"Development Tools"**. Click **"Done"** in the top left-hand corner.
+**Step 5:** In the right-hand pane, scroll down and select **"Development Tools"**. Click **"Done"** in the top left corner.
 <br><br>
 ![image](centOS7_installation_images/step05.png)
 
 <hr><br><!-- =============================================================== -->
 
-**Step 6:** Click on **"Installation Destination"**. It will likely have warning icon overlay.
+**Step 6:** Click on **"INSTALLATION DESTINATION"**. It will likely have warning icon overlay.
 <br><br>
 ![image](centOS7_installation_images/step06.png)
 
 <hr><br><!-- =============================================================== -->
 
-**Step 7:** Click on your virtual hard disk drive to highlight it. Click it a second time to select it as the installation destination. Make sure your virtual hard disk drive is selected **and has a checkmark**. Leave the **"Partitioning"** option set to **"Automatically configure partitioning"**. Click **"Done"** in the top left-hand corner.
+**Step 7:** Click on your virtual hard disk drive to highlight it. Click it a second time to select it as the installation destination. Make sure your virtual hard disk drive is selected **and has a checkmark**. Leave the **"Partitioning"** option set to **"Automatically configure partitioning"**. Click **"Done"** in the top left corner.
 <br><br>
 ![image](centOS7_installation_images/step07.png)
 
 <hr><br><!-- =============================================================== -->
 
-**Step 8:** Verify that the warning overlay has disappeared from the **"Installation Destination"**. Under **"Installation Destination"** you should also see **"Automatic partitioning selected"**. 
+**Step 8:** Verify that the warning overlay has disappeared from the **"INSTALLATION DESTINATION"**. Under **"INSTALLATION DESTINATION"** you should also see **"Automatic partitioning selected"**. 
 <br><br>
 ![image](centOS7_installation_images/step08.png)
 
 <hr><br><!-- =============================================================== -->
 
-**Step 9:** Click on **"Network & Host Name"**.
+**Step 9:** Click on **"NETWORK & HOST NAME"**.
 <br><br>
 ![image](centOS7_installation_images/step09.png)
 
 <hr><br><!-- =============================================================== -->
 
-**Step 10:** Verify that you have an Ethernet adapter selected in the left-hand pane.
+**Step 10:** Verify that you have an Ethernet adapter selected in the left pane.
 <br><br>
 ![image](centOS7_installation_images/step10.png)
 
 <hr><br><!-- =============================================================== -->
 
-**Step 11:** Click the **ON/OFF** toggle in the top right to enable your Ethernet adapter. Click **"Done"** in the top left-hand corner.
+**Step 11:** Click the **ON/OFF** toggle in the top right to enable your Ethernet adapter. Click **"Done"** in the top left corner.
 <br><br>
 ![image](centOS7_installation_images/step11.png)
 
@@ -119,31 +119,31 @@ Before you can install and run virtual machines, you must enable a feature in yo
 
 <hr><br><!-- =============================================================== -->
 
- **Step 13:** Click on **"Root Password"**.
+ **Step 13:** Click on **"ROOT PASSWORD"**.
 <br><br>
 ![image](centOS7_installation_images/step13.png)
 
 <hr><br><!-- =============================================================== -->
 
-**Step 14:** Set a root password (**REMEMBER THIS PASSWORD!!!**).  Click **"Done"** in the top left-hand corner.
+**Step 14:** Set a root password (**REMEMBER THIS PASSWORD!!!**).  Click **"Done"** in the top left corner.
 <br><br>
 ![image](centOS7_installation_images/step14.png)
 
 <hr><br><!-- =============================================================== -->
 
-**Step 15:** Click **"User Creation"**
+**Step 15:** Click **"USER CREATION"**
 <br><br>
 ![image](centOS7_installation_images/step15.png)
 
 <hr><br><!-- =============================================================== -->
 
-**Step 16:** Type in your preferred username and password. This password need not be the same as the **root** password previously set. Click **"Done"** in the top left-hand corner.
+**Step 16:** Type in your preferred username and password. This password need not be the same as the **root** password previously set. Click **"Done"** in the top left corner.
 <br><br>
 ![image](centOS7_installation_images/step16.png)
 
 <hr><br><!-- =============================================================== -->
 
-**Step 17:** Wait patiently while the OS installs.
+**Step 17:** Wait patiently while the Operating System installs.
 <br><br>
 ![image](centOS7_installation_images/step17.png)
 
@@ -161,19 +161,19 @@ Before you can install and run virtual machines, you must enable a feature in yo
 
 <hr><br><!-- =============================================================== -->
 
-**Step 20:** Click on **"License Information"** to accept the CentOS license.
+**Step 20:** Click on **"LICENSE INFORMATION"** to accept the CentOS license.
 <br><br>
 ![image](centOS7_installation_images/step20.png)
 
 <hr><br><!-- =============================================================== -->
 
-**Step 21:** Check the box next to **"I accept the license agreement"** to accept the CentOS license agreement. Then click **"Done"** in the top left-hand corner.
+**Step 21:** Check the box next to **"I accept the license agreement"** to accept the CentOS license agreement. Then click **"Done"** in the top left corner.
 <br><br>
 ![image](centOS7_installation_images/step21.png)
 
 <hr><br><!-- =============================================================== -->
 
-**Step 22:** Click **"Finish Configuration"** in the bottom right corner. The machine will reboot to a logon screen.
+**Step 22:** Click **"FINISH CONFIGURATION"** in the bottom right corner. The machine will reboot to a logon screen.
 <br><br>
 ![image](centOS7_installation_images/step22.png)
 
