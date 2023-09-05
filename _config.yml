@@ -3,6 +3,10 @@ description: "This page contains guides to aid in the setup of the development e
 
 url: "https://ycpcs.github.io/dev-env-setup-guide"
 
+theme:
+    features:
+        - content.code.copy
+
 kramdown:
     input: GFM
     hard_wrap: false
