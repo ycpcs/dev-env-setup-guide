@@ -197,7 +197,7 @@ to install the remaining required packages. This may take a few minutes.
 that your Windows and Linux filesystems and applications can interact properly.
 
 > ```
-> sudo wget -O /etc/wsl.conf https://raw.githubusercontent.com/jmoscola/wsl-conf-file/master/wsl.conf
+> sudo wget -O /etc/wsl.conf https://raw.githubusercontent.com/ycpcs/dev-env-setup-guide/gh-pages/prog_envs/_config/wsl.conf
 > ```
 
 
