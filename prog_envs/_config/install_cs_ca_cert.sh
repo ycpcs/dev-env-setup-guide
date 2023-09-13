@@ -28,9 +28,12 @@ case "${uname_out_lower}" in
 		;;
 	linux*)
 		detected_system='Linux'
-		local_user_certs="/etc/pki/ca-trust/source/anchors"
+		local_user_certs="/usr/local/share/ca-certificates"
 		cp_cmd="sudo cp"
-		update_cmd="sudo update-ca-trust extract"
+		update_cmd="sudo update-ca-certificates"
+		#local_user_certs="/etc/pki/ca-trust/source/anchors"
+		#cp_cmd="sudo cp"
+		#update_cmd="sudo update-ca-trust extract"
 		;;
 	cygwin*)
 		detected_system='Cygwin'
