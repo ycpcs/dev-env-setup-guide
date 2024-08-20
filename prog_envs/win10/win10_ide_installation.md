@@ -26,7 +26,7 @@ the steps below.
 * **Step 2:** Complete the web form **using your YCP email address**.
 
 
-* **Step 3:** Check your YCP email to verify that your free JetBrains education license 
+* **Step 3:** Check your **YCP email** to verify that your free JetBrains education license 
 has been approved. 
 
 
@@ -42,37 +42,37 @@ a JetBrains IDE for the first time.
 ---
 
 The quickest and easiest way to install and update multiple JetBrains IDEs is to use the 
-JetBrains Toolbox App.  Follow the steps below to install the Toolbox App and your IDEs.
+**JetBrains Toolbox App**.  Follow the steps below to install the **Toolbox App** and your IDEs.
 
 
 * **Step 1:** Download and install the [Jetbrains Toolbox App](https://www.jetbrains.com/toolbox-app/). 
 The toolbox is available for Windows, macOS, and Linux. 
 
 
-* **Step 2:** After installation, run the Toolbox App.  It will appear as a cube in the 
+* **Step 2:** After installation, run the **Toolbox App**.  It will appear as a cube in the 
 taskbar or menu bar of your operating system.
 
 
 * **Step 3:** Click on the cube to see a list of IDEs that you can install.  If this is the
-first time that you've installed the Toolbox App, you may need to agree to the licensing
+first time that you've installed the **Toolbox App**, you may need to agree to the licensing
 terms before you'll see the list of IDEs.
 
 
-* **Step 4:** From within the Toolbox App, click the **Install** button next to **CLion**
-to install the required IDE.  You should see a progress bar in the header of the Toolbox App.
+* **Step 4:** From within the **Toolbox App**, click the **Install** button next to **CLion**
+to install the required IDE.  You should see a progress bar in the header of the **Toolbox App**.
 
 
 * **Step 5:** When the installation is complete, you should be able to run the newly installed
-IDE either from within the Toolbox App, or from the location at which is was installed 
-on your operating system (i.e. Windows Start Menu). Run the CLion IDE now.
+IDE either from within the **Toolbox App**, or from the location at which is was installed 
+on your operating system (i.e. Windows Start Menu). Run the **CLion** IDE now.
 
 
-* **Step 6:** Respond to the prompts regarding "Data Sharing" and settings.  Then "Activate" 
+* **Step 6:** Respond to the prompts regarding **"Data Sharing"** and settings.  Then **"Activate"** 
 your JetBrains IDE using the JetBrains account that you created earlier.  Make sure the 
-"JB Account" radio button is selected, click the **Log In to Jetbrains Account...** button, 
+**"JB Account"** radio button is selected, click the **Log In to Jetbrains Account...** button, 
 input your account info in the web browser that appears, and then click **Activate** back in
-the CLion application. Finally, click "Continue" to finish the activation and run the 
-CLion IDE.
+the **CLion** application. Finally, click **"Continue"** to finish the activation and run the 
+**CLion** IDE.
 <br><br><br>
 
 
@@ -81,17 +81,17 @@ CLion IDE.
 
 ---
 
-The first time you run CLion you'll need to configure a variety of settings to get your 
+The first time you run **CLion** you'll need to configure a variety of settings to get your 
 IDE ready to compile and run your projects.  Setup will differ depending on your operating 
-system.  This guide is for Windows 10 and 11 running WSL2 with Ubuntu 20.04 LTS installed.
+system.  **This guide is for Windows 10 and 11 running WSL2 with Ubuntu 20.04 LTS installed.**
 
 
-* **Step 1:** Start up your WSL2 Linux terminal and minimize it for now.
+* **Step 1:** Start up your **WSL2 Linux** terminal and minimize it for now.
 
 
-* **Step 2:** If you're not already running CLion, start it now from your start menu. 
-Assuming this is the first time you've run CLion, you should see a 
-"Welcome to CLion" window similar to the image below.
+* **Step 2:** If you're not already running **CLion**, start it now from your start menu. 
+Assuming this is the first time you've run **CLion**, you should see a 
+**"Welcome to CLion"** window similar to the image below.
 
 > ![image](win10_clion_config_images/step02.png)
 <br><br>
