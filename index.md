@@ -17,7 +17,10 @@ This page contains useful guides for setting up your programming environment.
 - **macOS** guide:
     - **Part 1:** [Install Build Tools](./prog_envs/macOS/macOS_build_tools_installation.html)
     - **Part 2:** [Install CLion](./prog_envs/macOS/macOS_ide_installation.html)
+
+<!--
 <br><br>
 - **Linux CentOS 7 VM** guide:
     -  **Long version:** [Install Linux VM, Build Tools, and CLion](./prog_envs/centOS7/centOS7_install.html)
     -  **Short version:** [Install Linux VM, Build Tools, and CLion](./prog_envs/centOS7/centOS7_install_short.html)
+-->
