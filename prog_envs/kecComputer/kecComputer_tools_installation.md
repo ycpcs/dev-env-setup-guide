@@ -119,6 +119,7 @@ the H: drive in your current terminal session.
 > sudo mount -a
 > ```
 
+* **Step 4:** Restart WSL to mount your H: drive. 
 
 <br>
 
