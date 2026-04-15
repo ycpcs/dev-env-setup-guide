@@ -128,6 +128,6 @@ the H: drive in your current terminal session.
 
 ### Congratulations, you’re now running Linux in Windows 11.
 
-**Continue to Part 2:** [Install Build Tools in the WSL2 Linux Terminal](prog_envs/win11/win11_wsl2_build_tool_installation.html)
+**Continue to Part 2:** [Install Build Tools in the WSL2 Linux Terminal](./win11_wsl2_build_tool_installation.html)
 
 --- 
