@@ -62,17 +62,6 @@ There are multiple ways to get into your computer's BIOS/UEFI.  Select the metho
 <br><br><br>
 
 
-<!--
-## Part 2: Check Windows 10 for Compatibility (not required if you're running Windows 11)
-
----
-
-Before continuing, be sure to verify that you have the most recent version of Windows 10 installed.  You can check your Windows version by holding down the **Windows Logo Key** and pressing **R** to open the **Run** dialog box. In the **Run** dialog box type **winver**, and select **OK**. 
-
-At minimum, you must have version **2004** with **Build 19041** installed before continuing. If you are running a version number lower than **2004 / Build 19041** run Windows Update until no more updates are available and then continue with this guide.
-<br><br><br>
--->
-
 
 ## Part 2: Install WSL2 and an Ubuntu 24.04 LTS Virtual Machine
 
