@@ -120,7 +120,7 @@ into the **Memcheck options** text field and overwrite the default settings.
 
 ---
 
-**Continue to Final Part:** [Install YCPCS Marmoset Plugin](prog_envs/common/ycpcs_marmoset_plugin.html)
+**Continue to Final Part:** [Install YCPCS Marmoset Plugin](../common/ycpcs_marmoset_plugin.html)
 
 --- 
 

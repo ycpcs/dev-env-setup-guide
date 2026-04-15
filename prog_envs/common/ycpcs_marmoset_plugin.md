@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLion IDE Configuration
+title: YCP CS Marmoset Plugin
 ---
 
 This page contains a step-by-step guide through the installation of the YCPCS Marmoset Plugin.
