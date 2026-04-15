@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Windows 11 WSL2, and Ubuntu Installation
+title: Windows 11 WSL2 and Ubuntu Installation
 ---
 
 This page contains a step-by-step guide through the installation of WSL2 on Windows 11.

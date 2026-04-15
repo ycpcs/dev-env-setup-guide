@@ -38,7 +38,7 @@ to install the required IDE.  You should see a progress bar in the header of the
 
 ---
 
-**Continue to Part 4:** [Configure CLion and Install Marmoset Plugin](prog_envs/win11/win11_clion_config.html)
+**Continue to Part 4:** [Configure CLion and Install Marmoset Plugin](./win11_clion_config.html)
 
 --- 
 
