@@ -36,7 +36,7 @@ This page contains a step-by-step guide through the steps required to finalize t
 
 * **Step 4:** After the WSL2 installation is complete, your Windows Command Prompt should change into a Linux terminal. If not, you can run a new instance of your newly installed Linux terminal by using the Windows search bar and searching for "Ubuntu".
 
-  <br><br>
+<br><br>
 
 
 

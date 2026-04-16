@@ -36,8 +36,7 @@ has been approved. It may be a few minutes before you receive the confirmation e
 
 **If on a PERSONAL COMPUTER, continue to:** [Install CLion IDE](../common/clion_installation.html)
 
-
-**If on a KEC COMPUTER continue to:** [Configure CLion IDE](./win11_clion_config.html)
+**If on a KEC COMPUTER continue to:** [Configure CLion IDE](../win11/win11_clion_config.html)
 
 --- 
 
