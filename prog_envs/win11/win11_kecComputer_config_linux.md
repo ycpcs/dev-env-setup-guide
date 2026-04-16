@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KEC Computer Build Tool Installation and H Drive Mounting
+title: KEC Computer Ubuntu Installation and H Drive Mounting
 ---
 
 This page contains a step-by-step guide through the steps required to finalize the WSL2 installation on KEC lab computers. **Note that the Linux virtual machine is configured on a per machine basis. Therefore, if you use different computers in KEC, you'll need to run these steps on each.**

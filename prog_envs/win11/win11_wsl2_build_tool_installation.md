@@ -84,6 +84,6 @@ Your Linux VM should still be running. If not, you can restart your Linux VM by 
 
 **If on a PERSONAL COMPUTER, continue to Part 3 here:** [Install CLion IDE](./win11_clion_installation.html)
 
-**If on a KEC COMPUTER continue to Part 3 here:** [Configure CLion and Install Marmoset Plugin](./win11_clion_config.html)
+**If on a KEC COMPUTER continue to Part 3 here:** [Configure CLion IDE](./win11_clion_config.html)
 
 --- 
