@@ -17,8 +17,8 @@ document.addEventListener("DOMContentLoaded", function () {
     var btn = document.createElement("button");
     btn.className = "copy-btn";
     btn.innerHTML = COPY_ICON;
-    btn.setAttribute("title", "Copy code");
-    btn.setAttribute("aria-label", "Copy code");
+    btn.setAttribute("title", "Copy");
+    btn.setAttribute("aria-label", "Copy");
 
     wrapper.appendChild(btn);
     wrapper.appendChild(pre);
