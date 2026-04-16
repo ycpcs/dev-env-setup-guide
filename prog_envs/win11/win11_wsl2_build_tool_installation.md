@@ -7,7 +7,7 @@ This page contains a step-by-step guide through the installation of the build to
 <br><br>
 
 
-## Part 1: Install Build Tools (Required packages for CS350, CS420, etc.)
+## Section 1: Install Build Tools (Required packages for CS350, CS420, etc.)
 
 ---
 
@@ -52,7 +52,7 @@ This page contains a step-by-step guide through the installation of the build to
 
 
 
-## Part 2: Add Required Certificate Authority (CA) to WSL Environment 
+## Section 2: Add Required Certificate Authority (CA) to WSL Environment 
 
 ---
 
@@ -82,8 +82,6 @@ Your Linux VM should still be running. If not, you can restart your Linux VM by 
 
 ---
 
-**If on a PERSONAL COMPUTER, continue to Part 3 here:** [Install CLion IDE](./win11_clion_installation.html)
-
-**If on a KEC COMPUTER continue to Part 3 here:** [Configure CLion IDE](./win11_clion_config.html)
+**Continue to:** [Create a JetBrains Account](../common/create_jetbrains_account.html)
 
 --- 

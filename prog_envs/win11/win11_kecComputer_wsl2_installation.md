@@ -8,7 +8,7 @@ This page contains a step-by-step guide through the steps required to finalize t
 
 
 
-## Part 1: Install Ubuntu 24.04 LTS Virtual Machine
+## Section 1: Install Ubuntu 24.04 LTS Virtual Machine
 
 ---
 
@@ -40,7 +40,7 @@ This page contains a step-by-step guide through the steps required to finalize t
 
 
 
-## Part 2: Mount the H Drive
+## Section 2: Mount the H Drive
 
 ---
 
@@ -78,8 +78,6 @@ the H: drive in your current terminal session.
 
 ---
 
-### Congratulations, you’re now running Linux in Windows 11.
-
-**Continue to Part 2:** [Install Build Tools in the WSL2 Linux Terminal](./win11_wsl2_build_tool_installation.html)
+**Continue to:** [Install Build Tools in the WSL2 Linux Terminal](./win11_wsl2_build_tool_installation.html)
 
 --- 

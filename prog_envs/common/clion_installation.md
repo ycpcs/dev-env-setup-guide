@@ -8,7 +8,7 @@ This page contains a step-by-step guide through the installation of CLion and ot
 
 
 
-## Part 1: Install JetBrains Toolbox App and the CLion IDE
+## Install JetBrains Toolbox App and the CLion IDE
 
 ---
 
@@ -34,11 +34,23 @@ to install the required IDE.  You should see a progress bar in the header of the
 
 
 * **Step 5:** When the installation is complete, you should be able to run the newly installed IDE either from within the **Toolbox App**, or from the location at which it was installed on your operating system (i.e. macOS Applications folder or Windows Start Menu). Run the **CLion** IDE now.
+
+
+* **Step 6:** If you're not already running **CLion**, start it now.  If this is the first time you've run **CLion**, respond to the prompts regarding **"Data Sharing"** and you should then see a screen that looks like the following.
+
+  > ![image](./common_clion_installation_images/step06a.png)
+
+  Make sure the **"Subscription"** radio button is selected and click the **"Log In to JetBrains Account"** button, input your JetBrains account information in the web browser that appears, and then click **Activate** back in the **CLion** application. Finally, click **"Close"** to finish the activation of the **CLion** IDE. You should see a **"Welcome to CLion"** window similar to the image below.
+
+  > ![image](./common_clion_installation_images/step06b.png)
+
 <br><br>
 
 ---
 
-**Continue to Part 4:** [Configure CLion IDE](./win11_clion_config.html)
+**If on macOS, continue to:** [Install YCPCS Marmoset Plugin](./ycpcs_marmoset_plugin.html)
+
+**If on a Windows 11, continue to:** [Configure CLion IDE](../win11/win11_clion_config.html)
 
 --- 
 

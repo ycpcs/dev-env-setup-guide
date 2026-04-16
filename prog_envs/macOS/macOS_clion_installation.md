@@ -61,6 +61,6 @@ The quickest and easiest way to install and update multiple JetBrains IDEs is to
 
 ---
 
-### Done.
+**Continue to Final Part:** [Install YCPCS Marmoset Plugin](../common/ycpcs_marmoset_plugin.html)
 
 --- 
