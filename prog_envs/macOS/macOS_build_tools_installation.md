@@ -18,6 +18,7 @@ This page contains a step-by-step guide to get the required build tools installe
     > sudo xcode-select --install
     > ```
 
+<br>
 
 <!--
 * **Step 2 (M-series Macs only):** If you have an **M-series ARM** processor in your Mac, you'll need to install **Rosetta 2** to translate `x86` instructions to `ARM` instructions. Open your **Terminal** application (**Applications -> Utilities**) and run the following command:
