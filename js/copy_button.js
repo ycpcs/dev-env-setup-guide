@@ -20,8 +20,8 @@ document.addEventListener("DOMContentLoaded", function () {
     btn.setAttribute("title", "Copy");
     btn.setAttribute("aria-label", "Copy");
 
-    wrapper.appendChild(btn);
     wrapper.appendChild(pre);
+    wrapper.appendChild(btn);
 
     btn.addEventListener("click", function () {
       var code = pre.querySelector("code")

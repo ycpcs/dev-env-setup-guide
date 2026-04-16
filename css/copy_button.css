@@ -1,30 +1,38 @@
 .code-wrapper {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  gap: 4px;
+  position: relative;
   margin: 0.5em 0;
-}
-
-.copy-btn {
-  flex-shrink: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 32px;
-  height: 32px;
-  margin: 0;
-  padding: 0;
-  cursor: pointer;
-  background: #f0f0f0;
-  color: #555;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  transition: background 0.2s, color 0.2s, border-color 0.2s;
 }
 
 .code-wrapper pre {
   margin: 0;
+  padding-right: 40px; /* space so text doesn't go under button */
+}
+
+.copy-btn {
+  position: absolute;
+  top: 6px;     /* adjust vertically */
+  right: 6px;   /* adjust horizontally */
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 28px;
+  height: 28px;
+
+  cursor: pointer;
+  background: rgba(240, 240, 240, 0.9);
+  color: #555;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+
+  opacity: 0;                  /* hidden by default */
+  transition: opacity 0.2s, background 0.2s, color 0.2s;
+}
+
+/* Show button on hover (like GitHub) */
+.code-wrapper:hover .copy-btn {
+  opacity: 1;
 }
 
 .copy-btn:hover {
@@ -37,10 +45,11 @@
   background: #2a9d2a;
   color: #fff;
   border-color: #228b22;
+  opacity: 1; /* stay visible after click */
 }
 
 .copy-btn svg {
-  width: 16px;
-  height: 16px;
+  width: 14px;
+  height: 14px;
   pointer-events: none;
 }
