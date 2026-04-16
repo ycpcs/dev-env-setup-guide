@@ -22,7 +22,7 @@ This page contains useful guides for setting up your programming environment.
     - **Part 7:** [Install YCPCS Marmoset Plugin](./prog_envs/common/ycpcs_marmoset_plugin.html)
 <br><br>
 - **Windows 11** WSL2 guide (KEC Lab Computer):
-    - **Part 1:** [Configure Ubuntu Linux and Mount H Drive](./prog_envs/win11/win11_kecComputer_wsl2_installation.html)
+    - **Part 1:** [Install Ubuntu Linux and Mount H Drive](./prog_envs/win11/win11_kecComputer_wsl2_installation.html)
     - **Part 2:** [Install Build Tools in the WSL2 Linux Terminal](./prog_envs/win11/win11_wsl2_build_tool_installation.html)
     - **Part 3:** [Create a JetBrains Account](./prog_envs/common/create_jetbrains_account.html)
     - **Part 4:** [Configure CLion IDE](./prog_envs/win11/win11_clion_config.html)
