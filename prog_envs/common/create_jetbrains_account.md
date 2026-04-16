@@ -29,6 +29,7 @@ has been approved. It may be a few minutes before you receive the confirmation e
 
 
 * **Step 4:** Follow the directions in the email to complete the setup of your JetBrains account. You will need this account and password to confirm your license eligibility when you run a JetBrains IDE for the first time.
+
 <br><br>
 
 
