@@ -12,7 +12,7 @@ This page contains a step-by-step guide to enable virtualization on a Windows-ba
 ---
 
 Before you can install and run virtual machines on your computer, you must enable a feature in your computer's BIOS/UEFI.  Many computers are shipped from the manufacturer with this feature disabled.
-<br>
+<br><br>
 
 ### Section 1: Access your computer's BIOS/UEFI
 
@@ -49,6 +49,7 @@ There are multiple ways to get into your computer's BIOS/UEFI.  Select the metho
 
 * **Step 9:** Once in your BIOS/UEFI, continue following the instructions in Section 2.
 
+<br><br>
 
 ### Section 2: Find and enable virtualization settings
 

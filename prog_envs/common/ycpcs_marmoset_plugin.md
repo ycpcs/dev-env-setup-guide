@@ -23,7 +23,7 @@ The [YCP CS Marmoset plugin](https://plugins.jetbrains.com/plugin/30901-ycpcs-ma
 
     > ![image](common_plugin_images/section1_step01b.png)
 
-<br><br>
+<br>
 
 
 * **Step 2:** In the **Marketplace** search bar, search for "YCPCS Marmoset Submitter".  The result window may not immediately show the icon for the plugin.  
@@ -34,7 +34,7 @@ The [YCP CS Marmoset plugin](https://plugins.jetbrains.com/plugin/30901-ycpcs-ma
 
     > ![image](common_plugin_images/section1_step02b.png)
 
-<br><br>
+<br>
 
 
 ## Section 2: Submitting a Project
@@ -67,7 +67,7 @@ The [YCP CS Marmoset plugin](https://plugins.jetbrains.com/plugin/30901-ycpcs-ma
 
     > ![image](common_plugin_images/section2_step02b.png)
 
-<br><br>
+<br>
 
 * **Step 3:** Provide your Marmoset **username** and **password** when prompted to submit your project.
 

@@ -22,7 +22,7 @@ system.  **This guide is for Windows 11 running WSL2 with Ubuntu 24.04 LTS insta
 
     > ![image](win11_clion_config_images/step01.png)
 
-<br><br>
+<br>
 
 
 * **Step 2:** In the **Settings** dialog box that opens, expand **Build, Execution, Deployment**,
@@ -32,14 +32,14 @@ new **WSL** toolchain.
 
     > ![image](win11_clion_config_images/step02.png)
 
-<br><br>
+<br>
 
 
 * **Step 3:** All the values for your new WSL toolchain _SHOULD_ autopopulate. If they don't, make sure you installed your Ubuntu Linux VM properly. Verify that your settings match those shown in the image below.  If you have multiple toolchains installed, move your new WSL toolchain to the top of the list so that it becomes the _default_ toolchain.  When done, click **Apply**.
 
     > ![image](win11_clion_config_images/step03.png)
 
-<br><br>
+<br>
 
 
 * **Step 4:** In the left sidebar, expand **Build, Execution, Deployment**, then 
@@ -52,7 +52,6 @@ be in a similar location to the example below.
     > ```
     > \\wsl.localhost\Ubuntu-24.04\usr\bin\valgrind
     > ```
-<br>
 
 
 * **Step 5:** In the same **Valgrind** settings window, copy and paste the following text 
@@ -66,7 +65,7 @@ into the **Memcheck options** text field and overwrite the default settings.
 
     > ![image](win11_clion_config_images/step05.png)
 
-<br><br>
+<br>
 
 
 * **Step 6:** In the left sidebar, expand **Tools** and then select **Terminal**.  Scroll down until you see the **Shell path** setting. Copy and paste the following text into the **Shell path** text field and overwrite the default setting:
