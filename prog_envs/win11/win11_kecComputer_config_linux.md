@@ -8,7 +8,7 @@ This page contains a step-by-step guide through the steps required to finalize t
 
 
 
-## Part 1: Create a username/password in your Linux Virtual Machine
+## Part 1: Install Ubuntu 24.04 LTS Virtual Machine
 
 ---
 
@@ -36,7 +36,6 @@ This page contains a step-by-step guide through the steps required to finalize t
 
 * **Step 4:** After the WSL2 installation is complete, your Windows Command Prompt should change into a Linux terminal. If not, you can run a new instance of your newly installed Linux terminal by using the Windows search bar and searching for "Ubuntu".
 
-* **Step 5:** Exit all instances of the **Linux terminal** and the Windows **Command Prompt** that you may be running.
   <br><br>
 
 
@@ -73,9 +72,7 @@ the H: drive in your current terminal session.
     > ```
     > sudo systemctl daemon-reload
     > ```
-
-[//]: # (* **Step 5:** Restart WSL to mount your H: drive. )
-
+  
 <br>
 
 
